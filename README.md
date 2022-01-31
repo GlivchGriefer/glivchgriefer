@@ -25,12 +25,13 @@
 <hr style="border:2px gray">Including but not limited to:</hr>
 
 - Windows, MacOS, iOS, iPadOS, Linux
-- Python, Java, HTML, CSS
+- Python, Java, HTML, CSS, Lua
 - Discord Python and Java APIs
 - Adobe Creative Suite
 	- Photoshop, Premiere, After Effects, Dreamweaver
 - Blender
 - Unreal Engine 4 & 5 
+- GTAV x FiveM modding and retexturing (full police roleplay server)
 
 <hr style="border:2px gray">And even a little:</hr>
 
