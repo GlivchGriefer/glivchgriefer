@@ -17,7 +17,7 @@
 	- This bot python provides SQL support to engage the community with weekly [speakerhoney streams](https://twitch.tv/speakerhoney) A.K.A. *Share Your Song Monday* and other contests and collaborative challenges. [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 - [Procedural Media Website](https://www.proceduralmedia.com)
-	### <span style="color:red">Still a work in progress</span>.
+	- Still a work in progress :upside_down_face:
 
 <hr style="border:2px gray"> </hr>
 
