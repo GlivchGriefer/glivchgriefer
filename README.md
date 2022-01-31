@@ -35,7 +35,7 @@
 
 <hr style="border:2px gray">And even a little:</hr>
 
-- JavaScript, 
+- JavaScript
 - Cinema4D, 3DSMax, Maya
 - Economics, Philosophy, Accounting, Information Systems Security
 
