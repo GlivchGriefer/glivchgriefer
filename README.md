@@ -14,7 +14,7 @@
 
 ## Current Projects:
 - [honey bot for Speaker Honey's Discord](https://github.com/GlivchGriefer/honey-v2-dev) 
-	- This [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)bot provides SQL support to engage the community with weekly [speakerhoney streams](https://twitch.tv/speakerhoney) A.K.A. *Share Your Song Monday* and other contests and collaborative challenges. 
+	- This [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)bot provides SQL support to engage the community with weekly [speakerhoney streams](https://twitch.tv/speakerhoney) A.K.A. *Share Your Song Monday* and other contests and collaborative challenges. 
 
 - [Procedural Media Website](https://www.proceduralmedia.com)
 	- Still a work in progress :upside_down_face:
