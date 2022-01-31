@@ -25,7 +25,7 @@
 <hr style="border:2px gray">Including but not limited to:</hr>
 
 - Windows, MacOS, iOS, iPadOS, Linux
-- Python, Java, HTML, CSS, Lua
+- Python, Java, SQL, HTML, CSS, Lua
 - Discord Python and Java APIs
 - Adobe Creative Suite
 	- Photoshop, Premiere, After Effects, Dreamweaver
