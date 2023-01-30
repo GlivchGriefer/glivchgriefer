@@ -2,7 +2,7 @@
 
 <!-- My GitHub Stats -->
 
-![GlivchGriefer's GitHub stats](https://github-readme-stats.vercel.app/api?username=givchgriefera&show_icons=true&theme=transparent)
+
 
 <!-- GitHub Streak -->
 
