@@ -12,13 +12,16 @@
 
 
 ## Current Projects:
-- [honey bot for Speaker Honey's Discord](https://github.com/GlivchGriefer/honey-v2-dev) 
-	- This [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) bot provides SQL support to engage the community with weekly [speakerhoney streams](https://twitch.tv/speakerhoney) A.K.A. *Share Your Song Monday* and other contests and collaborative challenges. 
+- [NETBREAKER](https://github.com/glivchgriefer/netbreaker) - a procedural hacker sandbox for learning and practicing.
 
 - [Procedural Media Website](https://www.proceduralmedia.com)
 	- Still a work in progress :upside_down_face:
 
-<hr style="border:2px gray"> </hr>
+<hr style="border:2px gray"> </hr
+
+## Past Projects:
+- [honey bot for Speaker Honey's Discord](https://github.com/GlivchGriefer/honey-v2-dev) 
+	- This [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) bot provides SQL support to engage the community with weekly [speakerhoney streams](https://twitch.tv/speakerhoney) A.K.A. *Share Your Song Monday* and other contests and collaborative challenges.
 
 ### Knowledge Base:
 <hr style="border:2px gray">Including but not limited to:</hr>
