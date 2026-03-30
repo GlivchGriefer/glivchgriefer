@@ -10,7 +10,6 @@
 
 <!-- Most Used Languages -->
 
-[![GlivchGriefer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlivchGriefer&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects:
 - [honey bot for Speaker Honey's Discord](https://github.com/GlivchGriefer/honey-v2-dev) 
